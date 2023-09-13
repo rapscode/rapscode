@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rapscode
-- 👀 I’m interested in security enterprise
-- 🌱 I’m currently learning security and 5G Technology
+- 👀 I’m interested in 5G Network
+- 🌱 I’m currently learning network engineering and 5G Technology
 
 I'm just a beginner
 Glad to see u.
